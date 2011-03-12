@@ -53,7 +53,7 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 1. Now write a method to calculate the distance between 2 moving objects. *(speed in meters/second, time in seconds)*
 
-**You can use your methods from the previous sections here.**
+    **You can use your methods from the previous sections here.**
 
 2. Your new method should take the speed of 2 objects, their original positions, and the time traveled.
 
@@ -67,7 +67,7 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 1. Now write a method to calculate the distance between 2 moving objects in two dimensions. *(speed in meters/second, time in seconds)*
 
-**You can use your methods from the previous sections here.**
+    **You can use your methods from the previous sections here.**
 
 2. Your new method should take the speed of 2 objects, their original positions (x and y), and the time traveled.
 
