@@ -8,8 +8,8 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 1. Write a method to calculate distance. *(speed in meters/second, time in seconds)*
 
-    `Displacement Formula:
-    displacement = speed * time`
+    `Displacement Formula:`
+    `displacement = speed * time`
 
 2. Test this function for the following values:
 
@@ -23,8 +23,8 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 1. Now write a method to calculate the distance between 2 objects. *(distances in meters)*
 
-    `Distance Formula: (one dimensional distance)
-    distance = x2 - x1`
+    `Distance Formula:` *(one dimensional distance)*
+    `distance = x2 - x1`
 
 2. Test this function against the following values:
 
@@ -38,8 +38,8 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 1. Now write a method to calculate the distance between 2 objects in two dimensions (x/y). *(distances in meters)*
 
-    `Distance Formula: (two dimensional distance)
-    distance = Math.sqrt( (x2 - x1)**2 + (y2 - y1)**2 )`
+    `Distance Formula:` *(two dimensional distance)*
+    `distance = Math.sqrt( (x2 - x1)**2 + (y2 - y1)**2 )`
 
 2. Test this function against the following values:
 
@@ -57,9 +57,9 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 2. Your new method should take the speed of 2 objects, their original positions, and the time traveled.
 
-    `def distance(t, v1, x1, v2, x2)
-      # your code here
-    end`
+    `def distance(t, v1, x1, v2, x2)`
+    `  # your code here`
+    `end`
 
 3. Test this function against the values for Part 1 and Part 2 respectively.
 
@@ -71,8 +71,8 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
 2. Your new method should take the speed of 2 objects, their original positions (x and y), and the time traveled.
 
-    `def distance(t, v1, x1, y1, v2, x2, y2)
-      # your code here
-    end`
+    `def distance(t, v1, x1, y1, v2, x2, y2)`
+    `  # your code here`
+    `end`
 
 3. Test this function against the values for Part 1 and Part 3 respectively.
