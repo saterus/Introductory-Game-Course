@@ -26,7 +26,7 @@ This first lesson is a bit dry, but I didn't want to confuse anyone with trying 
 
     `Distance Formula:` *(one dimensional distance)*
 
-    `distance = x2 - x1`
+    `distance = |x2 - x1|`
 
 2. Test this function against the following values:
 
