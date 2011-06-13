@@ -8,6 +8,8 @@ Lessons Subject to Change
 2. Moving Objects and a World Axis
 3. Moving Sprites with Gosu
 4. Investigation: The Game Loop
+    * (http://www.koonsolo.com/news/dewitters-gameloop/)
 5. Adjusting Velocities and Acceleration
 6. Keyboard Input with Gosu
 
+http://cs.union.edu/csc105/template.php?pageid=assignments
